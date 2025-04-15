@@ -1,0 +1,7 @@
+app_location: "/"
+api_location: ""
+output_location: "."
+
+build:
+  app_artifact_location: "."
+  app_build_command: ""
