@@ -1,0 +1,19 @@
+
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Azure Static Web Apps: Start Emulator",
+            "type": "staticwebapp",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "appLocation": "/",           // Location of your application source code
+            "outputLocation": ".",        // Location of the built app
+            "apiLocation": "",            // Leave empty if you don't have an API
+            "port": 4280                  // Default port for the emulator
+        }
+    ]
+}
