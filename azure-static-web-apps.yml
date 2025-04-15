@@ -4,4 +4,4 @@ output_location: "."
 
 build:
   app_artifact_location: "."
-  app_build_command: ""
+  app_build_command: "npm run build"
